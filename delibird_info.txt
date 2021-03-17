@@ -1,0 +1,5 @@
+your client id
+your client secret
+your user_agent
+your username
+your password
